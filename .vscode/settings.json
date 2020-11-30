@@ -1,0 +1,7 @@
+{
+    "python.dataScience.jupyterServerURI": "local",
+    "ocaml.sandbox": {
+        "kind": "opam",
+        "switch": "default"
+    }
+}
